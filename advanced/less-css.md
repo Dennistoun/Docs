@@ -585,7 +585,7 @@ Based on `font-size` 14px and `line-height` 20px.
 	</div>
 </div>
 
-This is a partial listing, for the entire variable library, see the `/less` directory located in `/wp-content/themes/pagelines/`.
+This is a partial listing, for the entire variable library, see the `/less` directory located in `/wp-content/themes/dms/`.
 
 ## DMS Mixins ##
 
@@ -712,7 +712,7 @@ This is a partial listing, for the entire variable library, see the `/less` dire
 }
 ~~~
 
-This is a partial listing, for the entire mixins library, see the `mixin.less` file located in `/wp-content/themes/pagelines/less/`.
+This is a partial listing, for the entire mixins library, see the `mixin.less` file located in `/wp-content/themes/dms/less/`.
 
 ## Example ##
 
