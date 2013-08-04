@@ -12,7 +12,7 @@
 
 You have probably heard this before, but when a user visits your website for the first time, you only have a few seconds to capture their attention, convincing them to stick around. This is why having a optimized load time, is important, especially for those of you running a business.
 
-PageLines DMS has been built with performance in mind. However, some hosting environments can have a negactive effect on the performance of DMS, which is out of our control. Therefore, we have compiled a list of everything you can do, to improve your load time.
+PageLines DMS has been built with performance in mind. However, some hosting environments can have a negative effect on the performance of DMS, which is out of our control. Therefore, we have compiled a list of everything you can do, to improve your load time.
 
 ## Web Host Provider ##
 
